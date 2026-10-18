@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ci-screenshot-fix-backups/
+.ci-fix-*
+.ripwire*
+*.exe
+*.dll
+Profiles/
+backup-original/
